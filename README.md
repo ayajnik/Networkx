@@ -1,0 +1,2 @@
+# Networkx
+This file uses the Networkx package of python in order to draw the random graph. This random graph was generated with the help of an adjacency matrix that was developed first in excel with random numbers and then imported in python with the help of pandas library and then converted into numpy array. This matrix was then converted into a graph so as to show connections between various nodes. Furthermore, the degree counts was calculated in this graph and then visualized with the help of matplotlib library. 
