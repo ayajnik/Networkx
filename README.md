@@ -4,4 +4,4 @@ The networkx package was installed on the cmd terminal first with the following 
 
 pip install networkx
 
-I use Canopy IDE interface to write my code, and hence networkx package was also required to download from their package manager tool. That can be found on the Tool tab on their address bar and under that, there is an option called Package Manager where external libraries can be installed.
+I used Canopy IDE interface to write my code, and hence networkx package was also required to download from their package manager tool. That can be found on the Tool tab on their address bar and under that, there is an option called Package Manager where external libraries can be installed.
